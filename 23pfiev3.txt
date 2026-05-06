@@ -1,0 +1,15 @@
+Nguyen Van,An,01/01/2005,Nam,Da Nang
+Tran Thi,Bich,02/02/2005,Nu,Quang Nam
+Le Van,Cuong,03/03/2005,Nam,Hue
+Pham Thi,Dung,04/04/2005,Nu,Quang Ngai
+Hoang Van,Em,05/05/2005,Nam,Binh Dinh
+Vo Thi,Phuong,06/06/2005,Nu,Da Nang
+Dang Van,Giap,07/07/2005,Nam,Quang Tri
+Bui Thi,Hoa,08/08/2005,Nu,Thua Thien Hue
+Do Van,Hung,09/09/2005,Nam,Da Nang
+Ngo Thi,Lan,10/10/2005,Nu,Quang Nam
+Dinh Van,Minh,11/11/2005,Nam,Kon Tum
+Trinh Thi,Ngoc,12/12/2005,Nu,Gia Lai
+Ly Van,Phong,13/01/2005,Nam,Da Nang
+Mai Thi,Quynh,14/02/2005,Nu,Quang Ngai
+Cao Van,Son,15/03/2005,Nam,Binh Dinh
